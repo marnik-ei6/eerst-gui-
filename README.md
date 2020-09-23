@@ -13,4 +13,4 @@ tkinter._test()
 
 Slaag dit op en run je programma met volgend commando: Sudo python filename.py
 
-De volledige code , voor het project kan u vinden in de map 
+De volledige code , voor het project kan u vinden in de map "tkinter/eerste Gui" 
